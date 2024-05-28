@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá seja muito bem vindo ao meu perfil
 
-<!--
-**lanadelrb/lanadelrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alana Ribeiro 
 
-Here are some ideas to get you started:
+-Estou cursando no Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Estou ocupando este espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo se preferir,vou deixar meu e-mail abaixo
+
+alanaemanu623@gmail.com
+
+
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Falexa-demie-gif-19466633&psig=AOvVaw2q_tsyLJOqMBrd-oMYfgu8&ust=1716986463994000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNiGlpSvsIYDFQAAAAAdAAAAABAE)
